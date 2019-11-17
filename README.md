@@ -6,5 +6,5 @@ Feel free to check the code on here if you feel unsure.
   
 Let me know if you find any issues and I will try to update ASAP.
   
-**##Screenshot**
-![Alt text](screenshot.jpg?raw=true "Title")
+##Screenshot  
+![Screenshot](screenshot.jpg)
